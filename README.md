@@ -4,4 +4,3 @@
 - my skillsets include coding in C++, C#, HTML, CSS, Javascript, cryptography and java.
 - recent projects completed include C++ programming and crytrography and group reserach into how technology can be applied to health and fitness.
 - my hobbies are programming, playing competitve games, cooking and surefing mainly but i also go to concerts often aswell as travel.
-- 
