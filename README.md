@@ -13,7 +13,7 @@
 - i spend most of my days working my my assignments and coursework and if i am free i will be engaging in some of my hobbies.
 - my skillsets include coding in C++, C#, HTML, CSS, Javascript, cryptography and java.
 - recent projects completed include C++ programming and crytrography and group reserach into how technology can be applied to health and fitness.
-- my hobbies are programming, playing competitve games, cooking and surefing mainly but i also go to concerts often aswell as travel.
+- my hobbies are programming, playing competitve games, cooking and surfing mainly but i also go to concerts often aswell as travel.
 
   <div>
 
